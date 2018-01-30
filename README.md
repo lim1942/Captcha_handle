@@ -1,7 +1,7 @@
 #author:lim
 #Email: lim1942@163.com
 
-https://github.com/lim1942/captcha_hand/blob/master/dataset/39baB.jpg
+![Image text](https://github.com/lim1942/captcha_hand/blob/master/dataset/39baB.jpg)
 
 基于python2.7利用pillow进行的验证码识别。
 #use pillow in python2.7 to recognize captcha
